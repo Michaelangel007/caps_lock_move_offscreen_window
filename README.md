@@ -38,3 +38,20 @@ Scrolllock::
 6. To exit the utility press `Scroll Lock`.  (Note: On some keyboards you might need to press `Fn`.)
 
 (*) (I placed a mirror in `bin/` for convenience.)
+
+# Why is this utility even needed?
+
+One can use the `WindowsKey + Arrow Key` to move a window to the edge the screen. Unfortunately,
+this does NOT work if the window is offscreen.
+
+If you `Shift+RightClick` on the icon in the taskbar you get this menu:
+
+* ![system menu](system_menu.png)
+
+Again, this does NOT work with certain program such as Discord.
+
+Hence this utility.
+
+
+
+
