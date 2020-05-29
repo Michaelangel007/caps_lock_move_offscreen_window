@@ -12,7 +12,7 @@ Here is an AutoHotKey script to move them back on screen so they are visible.
 
 # Compiling from Source
 
-1. Install AutoHotKey (*).  (I placed a mirror in `bin/`)
+1. Install AutoHotKey (*).
 
 * https://www.autohotkey.com/download/
 
@@ -36,3 +36,5 @@ Scrolllock::
 4. Use `Alt-Tab` to cycle to the window you want to move to your mouse.
 5. Press `Caps Lock` to move it.
 6. To exit the utility press `Scroll Lock`.  (Note: On some keyboards you might need to press `Fn`.)
+
+(*) (I placed a mirror in `bin/` for convenience.)
